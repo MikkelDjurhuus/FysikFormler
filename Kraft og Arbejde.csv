@@ -1,0 +1,8 @@
+navn,formel,enheder,beskrivelse
+,p=m*v,"p,m,v","Impulsen af en partikel med massen m og hastigheden v."
+"Newtons anden lov",Fres=dp/dt,"F,p,t","Den resulterende kraft er med tilnærmelse middelværdien af impulsændring pr. tidsenhed."
+,Fres=m*a,"F,m,a","Fres er den resulterende kraft på en partikel med massen m og acceleration a."
+,Fres=F1+F2,"F,F","Hvis to enkeltkrafter på en partikel har samme retning, er størrelsen af den resulterende kraft summen af de to enkeltkræfters størrelse. Hvis kræfterne er modsat rettede, er størrelsen af den resulterende kraft differensen mellem de to enkeltkræfters størrelse. Hvis kræfterne ikke er paralelle, bestemmes størrelsen og retning af den resulterende kraft ved hjælp af kræfternes parallelogram."
+,∆p=Fres*∆t,"p,Fres,t","∆p er tilvæksten i partiklens impuls, når partiklen påvirkes af en konstant resulterede kraft Fres i tidsrummet."
+,A=F*∆s,"A,F,s","A er det arbejde, som en konstant kraft F udfører på en partikel, der forskydes strækningen D s i kraftens retning. Det arbejde, som en varierende kraft F udføre på en partikel under forskydning fra s1 og s2, kan beregnes som arealet under (s,F)-grafen s=s1 tils=s2."
+,A=F*∆s*cos(a),"A,F,s,a","A er det arbejde, som en konstant kraft F udføre på en partikel, der forskydes D s i en retning, der danner vinklen a med kraftens retning."
