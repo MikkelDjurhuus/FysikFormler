@@ -2,9 +2,9 @@ størrelse,symbol,si_navn,si_symbol,definition
 masse,m,kilogram,kg,
 tid,t,sekund,s,
 "længde,sted","l,s",meter,m,
-kraft,F,newton,N,kg*m/s^2
-"energi,arbejde,varme","A,E",joule,J,kg*m^2/s^2
 temperatur,T,kelvin,K,
+kraft,F,newton,N,kg*m/s^2
+"energi,arbejde,varme","E,A,Q",joule,J,kg*m^2/s^2
 hastighed,v,,,m/s
 acceleration,a,,,m/s^2
 
