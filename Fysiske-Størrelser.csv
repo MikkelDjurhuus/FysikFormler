@@ -1,6 +1,0 @@
-Navn,Forkortelse,Formel,Enheder
-"Hastighed,Fart",v,m/s,"m,s"
-Acceleration,a,m/s^2,"m,s"
-Densitet,r,kg/m^3,"kg,m"
-"Impuls,Bevægelsesmængde",p,kg*m/s,"kg,m,s"
-Vinkelhastighed,w,s^-1,s

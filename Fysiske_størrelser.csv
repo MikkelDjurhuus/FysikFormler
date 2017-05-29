@@ -1,0 +1,7 @@
+størrelse,symbol,si_navn,si_symbol,definition
+masse,m,kilogram,kg,
+tid,t,sekund,s,
+længde,l,meter,m,
+temperatur,T,kelvin,K,
+kraft,F,newton,N,kg*m/s^2
+acceleration,a,,,m/s^2
