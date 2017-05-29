@@ -1,0 +1,45 @@
+qty,symbol,unit,unit_symbol
+length,l,metre,m
+mass,m,kilogram,kg
+time,t,second,s
+"electric current",I,ampere,A
+"thermodynamic temperature",T,kelvin,K
+"amount of substance",n,mole,mol
+"luminous intensity",Iv,candela,cd
+area,A,square metre,m2
+volume,V,cubic metre,m3
+"speed,velocity",v,metre per second,m/s
+acceleration,a,metre per second squared,m/s2
+wavenumber,σ,reciprocal metre,m-1
+"density,mass density",ρ,kilogram per cubic metre,kg/m3
+surface density,ρA,kilogram per square metre,kg/m2
+specific volume,v,cubic metre per kilogram,m3/kg
+current density,j,ampere per square metre,A/m2
+magnetic field strength,H,ampere per metre,A/m
+"amount concentration,concentration",c,mole per cubic metre,mol/m3
+mass concentration,ρ,kilogram per cubic metre,kg/m3
+luminance,Lv,candela per square metre,cd/m2
+refractive index,n,one,1
+relative permeability,μr,one,1
+plane angle,radian,rad,m/m
+solid angle,steradian,sr,m2/m2
+frequency,hertz,Hz,s-1
+force,newton,N,m kg s-2
+"pressure,stress",pascal,Pa,m-1 kg s-2
+"energy,work,amount of heat",joule,J,m2 kg s-2
+"power,radiant flux",watt,W,m2 kg s-3
+"electric charge,amount of electricity",coulomb,C,s A
+"electric potential difference,electromotive force",volt,V,m2 kg s-3 A-1
+capacitance,farad,F,m-2 kg-1 s4 A2
+electric resistance,ohm,Ω,m2 kg s-3 A-2
+electric conductance,siemens,S,m-2 kg-1 s3 A2
+magnetic flux,weber,Wb,m2 kg s-2 A-1
+magnetic flux density,tesla,T,kg s-2 A-1
+inductance,henry,H,m2 kg s-2 A-2
+Celsius temperature,degree Celsius,°C,K
+luminous flux,lumen,lm,cd
+illuminance,lux,lx,m-2 cd
+activity referred to a radio nuclide,becquerel,Bq,s-1
+"absorbed dose,specific energy (imparted),kerma",gray,Gy,m2 s-2
+"dose equivalent,ambient dose equivalent,directional dose equivalent,personal dose equivalent",sievert,Sv,m2 s-2
+catalytic activity,katal,kat,s-1 mol
