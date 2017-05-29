@@ -16,7 +16,7 @@ surface density,ρA,kilogram per square metre,kg/m2
 specific volume,v,cubic metre per kilogram,m3/kg
 current density,j,ampere per square metre,A/m2
 magnetic field strength,H,ampere per metre,A/m
-amount concentration, concentration,c,mole per cubic metre,mol/m3
+"amount concentration,concentration",c,mole per cubic metre,mol/m3
 mass concentration,ρ,kilogram per cubic metre,kg/m3
 luminance,Lv,candela per square metre,cd/m2
 refractive index,n,one,1
