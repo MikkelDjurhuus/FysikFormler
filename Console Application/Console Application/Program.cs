@@ -15,7 +15,7 @@ namespace Console_Application
             client.Connect();
 
             client.Cypher
-                .LoadCsv(new Uri(""))
+                .LoadCsv(new Uri("https://raw.githubusercontent.com/MikkelDjurhuus/FysikFormler/master/SI-enheder.csv"),"row",true,"\,")
         }
     }
 }
