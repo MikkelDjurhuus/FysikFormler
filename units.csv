@@ -8,7 +8,7 @@ time,t,second,s
 "luminous intensity",Iv,candela,cd
 area,A,square metre,m2
 volume,V,cubic metre,m3
-speed, velocity,v,metre per second,m/s
+"speed,velocity",v,metre per second,m/s
 acceleration,a,metre per second squared,m/s2
 wavenumber,σ,reciprocal metre,m-1
 density, mass density,ρ,kilogram per cubic metre,kg/m3
