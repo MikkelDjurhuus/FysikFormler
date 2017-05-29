@@ -1,4 +1,4 @@
-Qty,Symbol,Unit,Unit Symbol
+qty,symbol,unit,unit_symbol
 length,l,metre,m
 mass,m,kilogram,kg
 time,t,second,s
