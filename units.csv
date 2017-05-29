@@ -11,7 +11,7 @@ volume,V,cubic metre,m3
 "speed,velocity",v,metre per second,m/s
 acceleration,a,metre per second squared,m/s2
 wavenumber,σ,reciprocal metre,m-1
-density, mass density,ρ,kilogram per cubic metre,kg/m3
+"density,mass density",ρ,kilogram per cubic metre,kg/m3
 surface density,ρA,kilogram per square metre,kg/m2
 specific volume,v,cubic metre per kilogram,m3/kg
 current density,j,ampere per square metre,A/m2
