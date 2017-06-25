@@ -18,7 +18,7 @@ Merge (e:Enhed {
     Enheder:split(line.Enheder,",")  
     })
 
-    LOAD CSV WITH HEADERS FROM "https://raw.githubusercontent.com/MikkelDjurhuus/FysikFormler/master/Si-enheder.csv"  
+LOAD CSV WITH HEADERS FROM "https://raw.githubusercontent.com/MikkelDjurhuus/FysikFormler/master/Si-enheder.csv"  
 AS line WITH line  
 Merge (e:Si {  
     Navn:split(line.Navn,","),  
