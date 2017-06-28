@@ -1,0 +1,5 @@
+navn,enhed,symbol,afledt
+kraft,newton,N,"kg,m,s"
+tryk,pascal,Pa,"N,m"
+energi,joule,J,"N,m"
+effekt,watt,W,"J,s"
