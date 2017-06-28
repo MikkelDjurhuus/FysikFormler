@@ -1,0 +1,11 @@
+navn,symbol,si
+tid,t,s
+stedkoordinat,s,m
+hastighed,v,"m,s"
+acceleration,a,"m,s"
+densitet,r,"kg,m"
+arbejde,A,J
+effekt,P,J
+kinetisk energi,Ekin,J
+potentiel energi,Epot,J
+omløbstid,T,s
